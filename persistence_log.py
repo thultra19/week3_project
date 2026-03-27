@@ -75,3 +75,15 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+"""
+==================== STEP 5: ENGLISH PRACTICE ====================
+
+Protocol Selection (3-C Rule):
+
+1. I will report the issue through Jira to ensure it is properly documented and tracked from the beginning.
+2. I would send an Email if the issue needs a clear and documented explanation.
+3. I would use Slack for quick clarification if the team needs immediate input.
+
+"""
